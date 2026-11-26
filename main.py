@@ -32,6 +32,7 @@ COGS = [
     "cogs.health",
     "cogs.antiraid",
     "cogs.community",
+    "cogs.dashboard",
 ]
 
 
